@@ -1,7 +1,9 @@
 import { ScrollView, View } from "react-native";
-import Header from "../components/header";
 import Constants from "expo-constants";
+
+import Header from "../components/header";
 import Banner from "../components/banner";
+import Search from "../components/search";
 
 const stausBarHeight = Constants.statusBarHeight;
 
@@ -15,6 +17,7 @@ export default function Index() {
       <View className="h-full px-4" style={{ marginTop: stausBarHeight + 8 }}>
         <Header />
         <Banner />
+        <Search />
       </View>
     </ScrollView>
   );
