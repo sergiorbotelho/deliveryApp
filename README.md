@@ -1,4 +1,9 @@
-# Welcome to your Expo app 👋
+
+
+![Captura de tela 2024-07-16 141644](https://github.com/user-attachments/assets/71e1c504-3aa6-43b9-b4a7-a45fe524e91d)
+
+
+# Welcome to your Delivery App 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
